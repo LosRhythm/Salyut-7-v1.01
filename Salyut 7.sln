@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerryYellow.CodeAssist.Editor", "MerryYellow.CodeAssist.Editor.csproj", "{F5B2A22D-1FEE-13DA-853C-B20DB78E7343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{E4849C9B-77EC-B63F-B37E-E65D93F16895}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5B2A22D-1FEE-13DA-853C-B20DB78E7343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B2A22D-1FEE-13DA-853C-B20DB78E7343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B2A22D-1FEE-13DA-853C-B20DB78E7343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B2A22D-1FEE-13DA-853C-B20DB78E7343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4849C9B-77EC-B63F-B37E-E65D93F16895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4849C9B-77EC-B63F-B37E-E65D93F16895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4849C9B-77EC-B63F-B37E-E65D93F16895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4849C9B-77EC-B63F-B37E-E65D93F16895}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

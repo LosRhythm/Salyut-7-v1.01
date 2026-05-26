@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UnityProject\\Salyut 7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|e:\\unityproject\\salyut 7\\assets\\scripts\\ending\\moveup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ending\\moveup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|E:\\UnityProject\\Salyut 7\\assets\\scripts\\sound\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sound\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|E:\\UnityProject\\Salyut 7\\assets\\scripts\\newdockingscene\\spaceshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\newdockingscene\\spaceshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|E:\\UnityProject\\Salyut 7\\assets\\scripts\\repairscene\\astronautmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\repairscene\\astronautmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|E:\\UnityProject\\Salyut 7\\assets\\scripts\\launchscene\\rocketcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\launchscene\\rocketcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|E:\\UnityProject\\Salyut 7\\assets\\scripts\\repairscene\\meteorcrushspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\repairscene\\meteorcrushspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|E:\\UnityProject\\Salyut 7\\assets\\scripts\\repairscene\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\repairscene\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|E:\\UnityProject\\Salyut 7\\assets\\scripts\\newdockingscene\\meteorspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\newdockingscene\\meteorspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|E:\\UnityProject\\Salyut 7\\assets\\scripts\\newdockingscene\\meteor2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\newdockingscene\\meteor2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|E:\\UnityProject\\Salyut 7\\assets\\scripts\\newdockingscene\\meteorstatic2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\newdockingscene\\meteorstatic2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|E:\\UnityProject\\Salyut 7\\assets\\scripts\\newdockingscene\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\newdockingscene\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|E:\\UnityProject\\Salyut 7\\assets\\scripts\\newdockingscene\\meteorstaticspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\newdockingscene\\meteorstaticspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|E:\\UnityProject\\Salyut 7\\assets\\scripts\\repairscene\\meteorcrush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\repairscene\\meteorcrush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|E:\\UnityProject\\Salyut 7\\assets\\scripts\\repairscene\\oxygentanksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\repairscene\\oxygentanksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|E:\\UnityProject\\Salyut 7\\assets\\scripts\\launchscene\\orbitdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\launchscene\\orbitdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|E:\\UnityProject\\Salyut 7\\assets\\scripts\\repairscene\\repairpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\repairscene\\repairpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|E:\\UnityProject\\Salyut 7\\assets\\scripts\\launchscene\\windowsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\launchscene\\windowsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|E:\\UnityProject\\Salyut 7\\assets\\scripts\\repairscene\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\repairscene\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|E:\\UnityProject\\Salyut 7\\assets\\scripts\\newdockingscene\\dockinguimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\newdockingscene\\dockinguimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|E:\\UnityProject\\Salyut 7\\assets\\scripts\\music\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\music\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|E:\\UnityProject\\Salyut 7\\assets\\scripts\\repairscene\\levelcompletionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\repairscene\\levelcompletionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|E:\\UnityProject\\Salyut 7\\assets\\scripts\\scene1-2\\videotoscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene1-2\\videotoscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|E:\\UnityProject\\Salyut 7\\assets\\scripts\\launchscene\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\launchscene\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|E:\\UnityProject\\Salyut 7\\assets\\scripts\\repairscene\\countdownsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\repairscene\\countdownsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|E:\\UnityProject\\Salyut 7\\assets\\scripts\\repairscene\\repairstageconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4849C9B-77EC-B63F-B37E-E65D93F16895}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\repairscene\\repairstageconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MeteorCrushSpawner.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\RepairScene\\MeteorCrushSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RepairScene\\MeteorCrushSpawner.cs",
+              "ToolTip": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\RepairScene\\MeteorCrushSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RepairScene\\MeteorCrushSpawner.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:06:37.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RepairPoint.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\RepairScene\\RepairPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RepairScene\\RepairPoint.cs",
+              "ToolTip": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\RepairScene\\RepairPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RepairScene\\RepairPoint.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAkwI4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T18:14:54.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrbitDetector.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\LaunchScene\\OrbitDetector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LaunchScene\\OrbitDetector.cs",
+              "ToolTip": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\LaunchScene\\OrbitDetector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LaunchScene\\OrbitDetector.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAlwGsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T01:55:09.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HealthManager.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\NewDockingScene\\HealthManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NewDockingScene\\HealthManager.cs",
+              "ToolTip": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\NewDockingScene\\HealthManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NewDockingScene\\HealthManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T02:05:27.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WindowSetting.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\LaunchScene\\WindowSetting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LaunchScene\\WindowSetting.cs",
+              "ToolTip": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\LaunchScene\\WindowSetting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LaunchScene\\WindowSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T02:53:13.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\Sound\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sound\\SoundManager.cs",
+              "ToolTip": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\Sound\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sound\\SoundManager.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAABFwB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T01:48:05.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AstronautManager.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\RepairScene\\AstronautManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RepairScene\\AstronautManager.cs",
+              "ToolTip": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\RepairScene\\AstronautManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RepairScene\\AstronautManager.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwDkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:11:48.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RocketControl.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\LaunchScene\\RocketControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LaunchScene\\RocketControl.cs",
+              "ToolTip": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\LaunchScene\\RocketControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LaunchScene\\RocketControl.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAkwB0BAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T23:05:35.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MeteorCrush.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\RepairScene\\MeteorCrush.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RepairScene\\MeteorCrush.cs",
+              "ToolTip": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\RepairScene\\MeteorCrush.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RepairScene\\MeteorCrush.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAiwF4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:12:49.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoveUp.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\Ending\\MoveUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ending\\MoveUp.cs",
+              "ToolTip": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\Ending\\MoveUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ending\\MoveUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T00:03:35.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\RepairScene\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RepairScene\\PlayerController.cs",
+              "ToolTip": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\RepairScene\\PlayerController.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\RepairScene\\PlayerController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:58:53.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpaceShipController.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\NewDockingScene\\SpaceShipController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NewDockingScene\\SpaceShipController.cs",
+              "ToolTip": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\NewDockingScene\\SpaceShipController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NewDockingScene\\SpaceShipController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T06:25:39.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MeteorStaticSpawner.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\NewDockingScene\\MeteorStaticSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NewDockingScene\\MeteorStaticSpawner.cs",
+              "ToolTip": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\NewDockingScene\\MeteorStaticSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NewDockingScene\\MeteorStaticSpawner.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwBUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:09:16.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Meteor2D.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\NewDockingScene\\Meteor2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NewDockingScene\\Meteor2D.cs",
+              "ToolTip": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\NewDockingScene\\Meteor2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NewDockingScene\\Meteor2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:10:47.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MeteorStatic2D.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\NewDockingScene\\MeteorStatic2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NewDockingScene\\MeteorStatic2D.cs",
+              "ToolTip": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\NewDockingScene\\MeteorStatic2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NewDockingScene\\MeteorStatic2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:11:23.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MeteorSpawner.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\NewDockingScene\\MeteorSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NewDockingScene\\MeteorSpawner.cs",
+              "ToolTip": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\NewDockingScene\\MeteorSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NewDockingScene\\MeteorSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:18:08.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OxygenTankSystem.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\RepairScene\\OxygenTankSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RepairScene\\OxygenTankSystem.cs",
+              "ToolTip": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\RepairScene\\OxygenTankSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RepairScene\\OxygenTankSystem.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T22:28:30.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\RepairScene\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RepairScene\\UIManager.cs",
+              "ToolTip": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\RepairScene\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RepairScene\\UIManager.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAIwLYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T18:50:40.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DockingUIManager.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\NewDockingScene\\DockingUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NewDockingScene\\DockingUIManager.cs",
+              "ToolTip": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\NewDockingScene\\DockingUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NewDockingScene\\DockingUIManager.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAmwFsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T23:57:38.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\Music\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Music\\AudioManager.cs",
+              "ToolTip": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\Music\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Music\\AudioManager.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T01:38:41.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VideoToScene.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\Scene1-2\\VideoToScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scene1-2\\VideoToScene.cs",
+              "ToolTip": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\Scene1-2\\VideoToScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scene1-2\\VideoToScene.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADgv1MAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T23:41:52.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LevelCompletionManager.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\RepairScene\\LevelCompletionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RepairScene\\LevelCompletionManager.cs",
+              "ToolTip": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\RepairScene\\LevelCompletionManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RepairScene\\LevelCompletionManager.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAADgv2QAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T22:05:31.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\LaunchScene\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LaunchScene\\GameManager.cs",
+              "ToolTip": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\LaunchScene\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LaunchScene\\GameManager.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAiwFkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T23:12:46.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CountdownSystem.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\RepairScene\\CountdownSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RepairScene\\CountdownSystem.cs",
+              "ToolTip": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\RepairScene\\CountdownSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RepairScene\\CountdownSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T21:38:48.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RepairStageConfig.cs",
+              "DocumentMoniker": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\RepairScene\\RepairStageConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RepairScene\\RepairStageConfig.cs",
+              "ToolTip": "E:\\UnityProject\\Salyut 7\\Assets\\Scripts\\RepairScene\\RepairStageConfig.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RepairScene\\RepairStageConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T18:15:45.633Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
